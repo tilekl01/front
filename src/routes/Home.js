@@ -12,9 +12,6 @@ function Home () {
          heroImg="https://www.careforthefamily.org.uk/wp-content/uploads/2022/04/journey-changer-1.jpg"
          title="Your Journey Your Story"
          text="Choose Your Favourite Destination"
-         buttonText="travel Plan"
-         url="/"
-         btnClass="show"
          />
          <Destination/>
          <Trip/>
